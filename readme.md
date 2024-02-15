@@ -3,4 +3,4 @@
 -Estado del proyecto en construccion.
 Para ejecutar el sistema, debes poner: 
 "Instrucciones"
-sistema de registro 2
+sistema de registro 3
